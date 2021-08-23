@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BDE19A95-034E-9B1C-34FF-01B2BEC8DF83}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARRaycastManager.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@4.1.7/Runtime/AR/ARRaycastManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="532415fe-57e5-4849-9d6c-804a07557071" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
